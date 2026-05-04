@@ -1,3 +1,6 @@
+-- Created as part of a BigQuery GA4 e-commerce analytics portfolio project.
+
+
 /*
 Project: GA4 Flat Events Table
 Platform: Google BigQuery
